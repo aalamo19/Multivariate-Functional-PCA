@@ -9,5 +9,5 @@ The main function is pwMFPCA() an it is assumed that the discretized points from
 ## Values:
 - functions: A roahd object with the new curves represented by ncomp components.
 - pi_1: The cumulative variability by components according to criterion $\pi_1$.
-- pi_2: The cumulative variability by components according to criterion $/pi_2$.
+- pi_2: The cumulative variability by components according to criterion $\pi_2$.
 - eigen: A list containing the eigenvalues and eigenvectors of the Sigma(t) matrix.
