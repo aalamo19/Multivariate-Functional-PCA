@@ -1,5 +1,5 @@
 # Multivariate-Functional-PCA
-R script for implementing the Multivariate Functional PCA (MFPCA) proposal from Berrendero, Justel, and Svarc, "Principal components for multivariate functional data".
+R script for implementing the Multivariate Functional PCA (MFPCA) proposal from Berrendero, Justel, and Svarc in the paper "Principal components for multivariate functional data".
 The main function is pwMFPCA() an it is assumed that the discretized points from the functional observations are equidistant.
 
 ## Arguments: 
